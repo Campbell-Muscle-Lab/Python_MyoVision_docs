@@ -27,16 +27,26 @@ This has to be done manually, because people are better at classifying things th
    + Zoom in on the image, and move around until you find the blob labeled 1. It's probably near the top somewhere.
 
 1. Now open `blob_1.png` from the `..\demos\example_C\results\blobs` folder
+
    + You should see that its a sub-image of the blob labeled 1 in the annotated overlay
+   
+     ![blob_1.png](blob_1.png)  
+        
    + Go to the Excel file, and in the column called `classification`, mark the status of blob 1 as:
      + 1, a plausible fiber
      + 2, potentially-connected fibers
      + 3, something else
+     
    + If you are not sure, use the annotated_overlay.png file to help you make a decision
+   
    + Don't worry if the blob doesn't 'quite fill the boundary' - it's not supposed to at this stage.
+   
    + Then again, if the blob is a tiny speck in a big fiber, it's not a good representation of the fiber so mark it as a 3.
+   
    + If the blob is 'connected' but seems to link a plausible fiber with something that is not a plausible fiber, mark it as a 2
+   
    + It's unlikely that you will be able to assign everything perfectly, and without some ambiguity - just do your best.
+   
    + Finally, remember that:
      + blob 1 is in row 2 of the Excel file
      + blob 2 is in row 3 of the Excel file
