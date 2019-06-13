@@ -10,9 +10,9 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
 
 + **Getting started**
   + [How to install MyoVision](pages/how-to-install-myovision/how-to-install-myovision.html)
-    + [Install Python using Anaconda](pages/how-to-install-myosion/install-python-using-anaconda/install-python-using-anaconda.html)
-    + [Install the GitHub client](pages/how-to-install-myosion/install-the-github-client/install-the-github-client.html)
-    + [Clone the Python MyoVision repository](pages/how-to-install-myosion/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
+    + [Install Python using Anaconda](pages/how-to-install-myovision/install-python-using-anaconda/install-python-using-anaconda.html)
+    + [Install the GitHub client](pages/how-to-install-myovision/install-the-github-client/install-the-github-client.html)
+    + [Clone the Python MyoVision repository](pages/how-to-install-myovision/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](pages/what-myovision-did/what-myovision-did.html)  
   
@@ -32,7 +32,7 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   
 + **Background you should know**
   + How computers store images
-  + Classification
+  + Classification  
   
   
 + **Getting help**
