@@ -38,9 +38,7 @@ This has to be done manually, because people are better at classifying things th
      + 2, potentially-connected fibers
      + 3, something else
      
-   + If you are not sure, use the annotated_overlay.png file to help you make a decision. The image below shows a section of the full image to demonstrate the concept.  
-   
-     ![annotated_overlay_cropped.png](annotated_overlay_cropped.png)  
+   + If you are not sure, use the annotated_overlay.png file to help you make a decision
    
    + Don't worry if the blob doesn't 'quite fill the boundary' - it's not supposed to at this stage.
    
@@ -53,7 +51,7 @@ This has to be done manually, because people are better at classifying things th
    + Finally, remember that:
      + blob 1 is in row 2 of the Excel file
      + blob 2 is in row 3 of the Excel file
-     + and so on  
+     + and so on
 
 1. Work your way through all of the blobs, until you have classified everything MyoVision detected
    + Remember to save your Excel file frequently, and once again at the end 
