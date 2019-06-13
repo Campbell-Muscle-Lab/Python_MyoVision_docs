@@ -3,8 +3,7 @@ layout: page
 title: Manually classify blobs
 description: Web-based help for Python_MyoVision
 ---
-
-### Manually classify blobs
+### Overview
 
 The goal here is to create a new Excel file that includes the metrics for each blob and an additional column marking the blob as:
   + a plausible fiber (code 1)
@@ -12,6 +11,8 @@ The goal here is to create a new Excel file that includes the metrics for each b
   + something else, for example, interstitial space (code 3)
 
 This has to be done manually, because people are better at classifying things than computers, until the computer has rules to follow. This may take a while.
+
+### Instructions
 
 1. Copy blob_metrics.xlsx to `..\demos\example_C\results\manual_classification\manual_classification.xlsx`
 
