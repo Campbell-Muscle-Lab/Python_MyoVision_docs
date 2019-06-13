@@ -45,7 +45,7 @@ and press enter
     
 1. Here is the clean_overlay.png file  
     
-    ![clean_overlay.png](clean-overlay.png)
+    ![clean_overlay.png](clean_overlay.png)
     
 1. Here is the annotated_overlay.png file
     
@@ -55,3 +55,7 @@ and press enter
 
 1. What happened, was that MyoVision detected that the original image (1509 x 1408 pixels) was larger than 1000 x 1000 pixels (the threshold value is defined by the `block_size` in `<image_to_label_parameters>` in the configuration file). It therefore split the original image into blocks of 1000 x 1000, padding the right-hand side and the bottom-edge with black areas as necessary during the image processing.
    + You can see the individual blocks by opening up `processing.zip` in the results folder and looking inside the `blocks` sub-folder
+   + Here's how the top-right block was processed
+   
+     ![block_2.png](block_2.png)
+     
