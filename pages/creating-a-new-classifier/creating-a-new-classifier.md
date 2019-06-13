@@ -30,4 +30,4 @@ This page leads you through an example workflow.
 
 Once you have created a new classifier, it's a good idea to test it.
 
-+ [Testing your new classifier](testing-your-new-classifier/testing-your-new-classifier.html)
++ [Testing your new classifier](test-your-new-classifier/test-your-new-classifier.html)
