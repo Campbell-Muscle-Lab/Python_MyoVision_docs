@@ -96,15 +96,18 @@ Here are the results:
 + Image 1
 
   ![image_1.png](image_1/image_1.png)  
+  
   ![annotated_overlay.png](image_1/annotated_overlay.png)  
 
 + Image 2
 
   ![image_2.png](image_2/image_2.png)  
+  
   ![annotated_overlay.png](image_2/annotated_overlay.png)  
 
 + Image 3
 
   ![image_3.png](image_3/image_3.png)  
+  
   ![annotated_overlay.png](image_3/annotated_overlay.png)  
 
