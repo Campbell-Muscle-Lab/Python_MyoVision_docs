@@ -12,7 +12,7 @@ first test
 ![kens_test_image](assets/analyze-a-small-image/clean_overlay.png)
 
 second test - assets/clean_overlay.png
-![kens_test_image](assets/clean_overlay.png.url)
+![kens_test_image](assets/clean_overlay.png)
 third test - ../assets/clean_overlay.png
 ![kens_test_image](../assets/clean_overlay.png)
 fourth test - assets/themes/twitter/clean_overlay.png
