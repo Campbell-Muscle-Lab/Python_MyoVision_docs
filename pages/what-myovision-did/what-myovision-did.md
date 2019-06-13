@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python MyoVision documentation
+title: What MyoVision did
 description: Web-based help for Python_MyoVision
 ---
 
@@ -8,7 +8,7 @@ description: Web-based help for Python_MyoVision
 
 This documentation doesn't know which directory you installed Python_MyoVision in.
 
-That's because, if you followed [the instructions](clone-the-python-myoVision-repository.html), you cloned the code to  
+That's because, if you followed [the instructions](../clone-the-python-myovision-repository/clone-the-python-myovision-repository.html), you cloned the code to  
 `c:\users\your_user_name\github\Python_MyoVision`  
 where _your_user_name_ is something specific to you.
 

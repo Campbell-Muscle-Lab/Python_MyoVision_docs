@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python MyoVision documentation
+title: Clone the Python_MyoVision repository
 description: Web-based help for Python_MyoVision
 ---
 

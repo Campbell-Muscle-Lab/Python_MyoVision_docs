@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python MyoVision documentation
+title: Install Python using Anaconda
 description: Web-based help for Python_MyoVision
 ---
 
@@ -18,7 +18,7 @@ The easiest way to install Python and all of the necessary packages is to use th
 + Check the installation by:
   + opening a command prompt (Run->cmd, or type cmd in the Windows Search box)
   + typing "python -V" and pressing enter
-  + you should see something like this
+  + you should see something like this  
 ![python_version_check.png](python_version_check.png)
   + if you get an error, or don't see a version number starting with 3.something try [this troubleshooting page](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/)
 

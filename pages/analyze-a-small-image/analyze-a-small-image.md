@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python MyoVision documentation
+title: Analyze a small image
 description: Web-based help for Python_MyoVision
 ---
 
