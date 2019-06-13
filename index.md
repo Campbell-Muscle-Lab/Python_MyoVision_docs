@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python MyoVision documentation
+title: Home
 description: Web-based help for Python_MyoVision
 ---
 
@@ -17,7 +17,7 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](what-myovision-did/What-MyoVision-did)
 + Next steps
-  + [Analyze a bigger image](Analyze-a-bigger-image)
+  + [Analyze a bigger image](analyze-a-bigger-image/analyze-a-bigger-image.html)
   + [Creating a new classifier](Creating-a-new-classifier)
     + [Segment a test image into test blobs](Segment-a-test-image-into-test-blobs)
     + [Manually-classify-blobs](Manually-classify-blobs)
