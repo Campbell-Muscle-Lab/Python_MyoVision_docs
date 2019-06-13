@@ -18,7 +18,7 @@ Once you have created a new classifier, it's a good idea to test it on a new ima
 1. A simple approach is to test the classifier on a flipped version of the original image file.  
 
 Here's the original image we used to train the classifer.  
-![original_raw_image.png](original-raw-image.png)
+![original_raw_image.png](original_raw_image.png)
 
 Here's a flipped version that we will use to to test our system.  
 ![flipped_raw_image.png](flipped_raw_image.png)
