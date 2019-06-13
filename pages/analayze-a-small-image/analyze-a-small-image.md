@@ -38,10 +38,10 @@ and press enter
    + processing.zip
 
 1. Here is the clean_overlay.png file  
-![clean_overlay.png](../../assets/analyze-a-small-image/clean_overlay.png)
+![clean_overlay.png](clean_overlay.png)
 
 1. Here is the annotated_overlay.png file
-![annotated_overlay.png](../../assets/analyze-a-small-image/annotated_overlay.png)
+![annotated_overlay.png](annotated_overlay.png)
 
 1. Now go to [What MyoVision did](what-myovision-did.html) to learn more about what the program did.
 

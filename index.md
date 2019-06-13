@@ -20,7 +20,7 @@ second test
     + [Install Python using Anaconda](pages/install-python-using-anaconda.html)
     + [Install the GitHub client](pages/install-the-github-client.html)
     + [Clone the Python MyoVision repository](pages/clone-the-python-myovision-repository)
-  + [Analyze a small image](pages/analyze-a-small-image)
+  + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](What-MyoVision-did)
 + Next steps
   + [Analyze a bigger image](Analyze-a-bigger-image)
