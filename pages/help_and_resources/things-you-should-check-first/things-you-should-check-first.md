@@ -26,7 +26,7 @@ You could ask somebody who knows about computers to help you, and if that doesn'
 
 If you're still stuck, check whether somebody has alerted us to the same problem
 
-+ Go to the [Python_MyoVision respository](https://github.com/Campbell-Muscle-Lab/Python-MyoVision)
++ Go to the [Python_MyoVision respository](https://github.com/Campbell-Muscle-Lab/Python_MyoVision)
   + Click on the Issues tab
 
 If so, we know about it, and are probably working on it.
