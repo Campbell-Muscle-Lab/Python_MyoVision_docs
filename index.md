@@ -15,6 +15,8 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Clone the Python MyoVision repository](pages/how-to-install-myosion/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](pages/what-myovision-did/what-myovision-did.html)
+  
+  
 + **Next steps**
   + [Analyze a bigger image](pages/analyze-a-bigger-image/analyze-a-bigger-image.html)
   + [Creating a new classifier](pages/creating-a-new-classifier/creating-a-new-classifier.html)
@@ -23,11 +25,17 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Train the classifier](pages/creating-a-new-classifier/train-the-classifier/train-the-classifier.html)
     + [Testing your new classifer](pages/testing-your-new-classifier/testing-your-new-classifier.html)
   + [Process many images in sequence](pages/process-many-images-in-sequence/process-many-images-in-sequence.html)
+  
+  
 + **Running your own analyses**
   + [What to do with new images](pages/what-to-do-with-new-images/what-to-do-with-new-images.html)
+  
+  
 + **Background you should know**
   + How computers store images
   + Classification
+  
+  
 + **Getting help**
   + [Things you should check first](pages/help_and_resources/things-you-should-check-first/things-you-should-check-first.html)
   + [How to create an issue](pages/help_and_resources/how-to-create-an-issue/how-to-create-an-issue.html)
