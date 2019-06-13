@@ -15,7 +15,7 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Clone the Python MyoVision repository](pages/how-to-install-myovision/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](pages/what-myovision-did/what-myovision-did.html)  
-  
+    
   
 + **Next steps**
   + [Analyze a bigger image](pages/analyze-a-bigger-image/analyze-a-bigger-image.html)

@@ -53,22 +53,22 @@ These instructions show you how to run a simple demo which analyzes three images
 ~~~~
 
 +  The key thing about this configuration file is that it has 3 tasks instead of just + 
-   + the first task analyzes image_+ png and stores the results in the `results\image_1` folder
-   + the second task analyzes image_2.png and stores the results in the `results\image_2` folder
-   + the third task analyzes image_3.png and stores the results in the `results\image_3` folder
+   + the first task analyzes `image_1 png` and stores the results in the `results\image_1` folder
+   + the second task analyzes `image_2.png` and stores the results in the `results\image_2` folder
+   + the third task analyzes `image_3.png` and stores the results in the `results\image_3` folder  
 
 +  That's basically it. You can instead this technique for any number of image files, simply by adding new tasks to your configuration file.
 
 +  To run the demo, open a command prompt
    + If you don't know how
      + type cmd in the Search field of your Start Menu
-     + or Google it to find instructions that work for you
+     + or Google it to find instructions that work for you  
 
 +  Change the directory to the Python_code folder of your repository
    + If you installed Python_MyoVision in `c:\users\your_username_here\GitHub\Python_Myovision`  
 you can type  
 `cd c:\users\your_username_here\GitHub\Python_Myovision\Python_code`  
-and press enter
+and press enter  
 
 +  In the command window, type  
 python py_vision.py analyze_images "..\demos\example_D\configuration_data\configuration_data.xml"  
@@ -83,11 +83,28 @@ and press enter
 +  You should see 3 folder:
    + results_1
    + results_2
-   + results_3
+   + results_3  
    
 +  Inside each of them, you should see the following files:
    + final_results.xlsx
    + clean_overlay.png
    + annotated_overlay.png
    + processing.zip
+
+Here are the results:
+
++ Image 1
+
+  ![image_1.png](image_1/image_1.png)  
+  ![annotated_overlay.png](image_1/annotated_overlay.png)  
+
++ Image 2
+
+  ![image_2.png](image_2/image_2.png)  
+  ![annotated_overlay.png](image_2/annotated_overlay.png)  
+
++ Image 3
+
+  ![image_3.png](image_3/image_3.png)  
+  ![annotated_overlay.png](image_3/annotated_overlay.png)  
 
