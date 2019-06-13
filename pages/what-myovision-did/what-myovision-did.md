@@ -65,7 +65,7 @@ When you ran the example, MyoVision:
   1. attempting to separate potentially-connected fibers into single fibers
      + this is done using a watershed algorithm and a `watershed_distance_parameter` (in this case, 10 pixels) defined in the `<image_to_label_parameters>` section of the configuration file
      
-     ![step_5_segmention_after_initial_separation_of_connected_fibers.png](step_5_segmention_after_initial_separation_of_connected_fibers.png)  
+     ![step_5_segmention_after_initial_separation_of_connected_fibers.png](step_5_segmentation_after_initial_separation_of_connected_fibers.png)  
      ![step_6_classification_after_initial_separation_of_connected_fibers.png](step_6_classification_after_initial_separation_of_connected_fibers.png)  
      
   1. refining the edges of each cell using an adaptive contour technique which depends on the following parameters which are defined in the `<refine_fibers_parameters>` section of the configuration file:
