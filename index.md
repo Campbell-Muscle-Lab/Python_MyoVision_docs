@@ -15,14 +15,14 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Install the GitHub client](pages/install-the-github-client/install-the-github-client.html)
     + [Clone the Python MyoVision repository](pages/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
-  + [What MyoVision did](what-myovision-did/What-MyoVision-did.html)
+  + [What MyoVision did](what-myovision-did/what-myovision-did.html)
 + Next steps
   + [Analyze a bigger image](analyze-a-bigger-image/analyze-a-bigger-image.html)
   + [Creating a new classifier](creating-a-new-classifier/creating-a-new-classifier.html)
-    + [Segment a test image into test blobs](Segment-a-test-image-into-test-blobs)
-    + [Manually-classify-blobs](Manually-classify-blobs)
-    + [Train the classifier](Train-the-classifier)
-    + [Testing your new classifer](Testing-your-new-classifier)
+    + [Segment a test image into test blobs](creating-a-new-classifier/segment-a-test-image-into-test-blobs/segment-a-test-image-into-test-blobs.html)
+    + [Manually-classify-blobs](creating-a-new-classifier/manually-classify-blobs/manually-classify-blobs.htm)
+    + [Train the classifier](creating-a-new-classifier/train-the-classifier/train-the-classifier.html)
+    + [Testing your new classifer](testing-your-new-classifier/testing-your-new-classifier)
 + More advanced
   + Process many images as a batch process
 + Background you should know
