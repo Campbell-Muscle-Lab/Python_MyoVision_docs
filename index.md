@@ -8,7 +8,6 @@ These pages provide information about an implementation of the MyoVision softwar
 
 The basic approach is very similar to that described by [Wen et al. (2018)](https://www.physiology.org/doi/full/10.1152/japplphysiol.00762.2017) but the software has been re-written in an attempt to make it more robust and potentially faster.
 
-+ Overview
 + **Getting started**
   + [How to install MyoVision](pages/how-to-install-myovision/how-to-install-myovision.html)
     + [Install Python using Anaconda](pages/how-to-install-myosion/install-python-using-anaconda/install-python-using-anaconda.html)
@@ -25,11 +24,11 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Testing your new classifer](pages/testing-your-new-classifier/testing-your-new-classifier.html)
   + [Process many images in sequence](pages/process-many-images-in-sequence/process-many-images-in-sequence.html)
 + **Running your own analyses**
-  + [What to do with new images](pages/what-shou
+  + [What to do with new images](pages/what-to-do-with-new-images/what-to-do-with-new-images.html)
 + **Background you should know**
   + How computers store images
   + Classification
 + **Getting help**
-  + [Things you should check first](pages/things-you-should-check-first/things-you-should-check-first.html)
-  + How to create an issue
+  + [Things you should check first](pages/help_and_resources/things-you-should-check-first/things-you-should-check-first.html)
+  + [How to create an issue](pages/pages/help_and_resources/how-to-create-an-issue.html)
   + How to request a new feature
