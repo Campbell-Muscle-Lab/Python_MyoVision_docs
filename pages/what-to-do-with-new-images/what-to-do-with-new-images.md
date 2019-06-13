@@ -48,14 +48,3 @@ Once you've done that
 + Now try it with a full-scale image
 
 + If that works, set up the [batch process](../process-many-images-in-sequence/process-many-images-in-sequence.html) and cross your fingers!
-
-
-
-
-Okay, something has gone wrong, you've worked through [the trouble-shooting tips](../things-you-should-check-first/things-you-should-check-first.html), and you've come to the conclusion that there is a problem with the code.
-
-+ Go to the [Python_MyoVision respository](https://github.com/Campbell-Muscle-Lab/Python-MyoVision)
-
-+ Click on the Issues tab
-
-+ Click on the Green "New issue" button
