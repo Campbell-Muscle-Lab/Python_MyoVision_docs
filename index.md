@@ -11,8 +11,12 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
 first test
 ![kens_test_image](assets/analyze-a-small-image/clean_overlay.png)
 
-second test
+second test - assets/clean_overlay.png
 ![kens_test_image](assets/clean_overlay.png.url)
+third test - ../assets/clean_overlay.png
+![kens_test_image](../assets/clean_overlay.png)
+fourth test - assets/themes/twitter/clean_overlay.png
+![kens_test_image](assets/themes/twitter/clean_overlay.png)
 
 + Overview
 + Getting started
