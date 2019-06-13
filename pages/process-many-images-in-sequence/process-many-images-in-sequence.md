@@ -80,7 +80,7 @@ and press enter
    + By default that should be  
 `c:\users\your_username_here\GitHub\Python_Myovision\demos\example_A\results`  
 
-+  You should see 3 folder:
++  You should see 3 folders:
    + results_1
    + results_2
    + results_3  
