@@ -26,10 +26,10 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   + [Process many images in sequence](pages/process-many-images-in-sequence/process-many-images-in-sequence.html)
 + **Running your own analyses**
   + [What to do with new images](pages/what-shou
-+ Background you should know
++ **Background you should know**
   + How computers store images
   + Classification
-+ Getting help
-  + Things you should check first
++ **Getting help**
+  + [Things you should check first](pages/things-you-should-check-first/things-you-should-check-first.html)
   + How to create an issue
   + How to request a new feature
