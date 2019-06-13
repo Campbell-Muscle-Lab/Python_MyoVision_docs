@@ -15,10 +15,10 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Install the GitHub client](pages/install-the-github-client/install-the-github-client.html)
     + [Clone the Python MyoVision repository](pages/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
-  + [What MyoVision did](what-myovision-did/What-MyoVision-did)
+  + [What MyoVision did](what-myovision-did/What-MyoVision-did.html)
 + Next steps
   + [Analyze a bigger image](analyze-a-bigger-image/analyze-a-bigger-image.html)
-  + [Creating a new classifier](Creating-a-new-classifier)
+  + [Creating a new classifier](creating-a-new-classifier/creating-a-new-classifier.html)
     + [Segment a test image into test blobs](Segment-a-test-image-into-test-blobs)
     + [Manually-classify-blobs](Manually-classify-blobs)
     + [Train the classifier](Train-the-classifier)
