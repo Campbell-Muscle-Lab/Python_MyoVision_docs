@@ -11,8 +11,8 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
 + Overview
 + Getting started
   + How to install MyoVision on your computer
-    + [Install Python using Anaconda](/pages/install-python-using-anaconda.html)
-    + [Install the GitHub client](/install-the-github-client.html)
+    + [Install Python using Anaconda](pages/install-python-using-anaconda.html)
+    + [Install the GitHub client](install-the-github-client.html)
     + [Clone the Python MyoVision repository](Clone-the-Python-MyoVision-repository)
   + [Analyze a small image](Analyze-a-small-image)
   + [What MyoVision did](What-MyoVision-did)
