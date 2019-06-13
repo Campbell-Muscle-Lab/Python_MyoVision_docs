@@ -12,7 +12,7 @@ first test
 ![kens_test_image](assets/analyze-a-small-image/clean_overlay.png)
 
 second test
-![kens_test_image](assets/clean_overlay.png)
+![kens_test_image](assets/clean_overlay.png.url)
 
 + Overview
 + Getting started
