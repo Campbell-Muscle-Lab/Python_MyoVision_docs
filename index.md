@@ -30,5 +30,5 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   + Classification
 + **Getting help**
   + [Things you should check first](pages/help_and_resources/things-you-should-check-first/things-you-should-check-first.html)
-  + [How to create an issue](pages/pages/help_and_resources/how-to-create-an-issue.html)
+  + [How to create an issue](pages/help_and_resources/how-to-create-an-issue/how-to-create-an-issue.html)
   + How to request a new feature
