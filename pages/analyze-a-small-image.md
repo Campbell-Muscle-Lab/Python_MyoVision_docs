@@ -43,5 +43,5 @@ and press enter
 1. Here is the annotated_overlay.png file
 ![annotated_overlay.png](assets/analyze_a_small_image/annotated_overlay.png)
 
-1. Now go to [What MyoVision did](what-myovision-did) to learn more about what the program did.
+1. Now go to [What MyoVision did](what-myovision-did.html) to learn more about what the program did.
 

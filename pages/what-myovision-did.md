@@ -8,7 +8,7 @@ description: Web-based help for Python_MyoVision
 
 This documentation doesn't know which directory you installed Python_MyoVision in.
 
-That's because, if you followed [the instructions](https://github.com/Campbell-Muscle-Lab/Python_MyoVision/wiki/Clone-the-Python-MyoVision-repository), you cloned the code to  
+That's because, if you followed [the instructions](clone-the-python-myoVision-repository.html), you cloned the code to  
 `c:\users\your_user_name\github\Python_MyoVision`  
 where _your_user_name_ is something specific to you.
 
@@ -24,7 +24,7 @@ The demos resolve this issue by using relative paths.
 
 When you ran the example, MyoVision:
 
-+ opened a [configuration file](configuration_file) (`configuration_data.xml`) stored in `..\demos\example_A\configuration_data`.
++ opened a configuration file (`configuration_data.xml`) stored in `..\demos\example_A\configuration_data`.
   + looked at the task file section
     + saw one task specified with
       + an input image file `PoWer_3_Gastroc_10x_blue_cropped_small.png` stored in `..\demos\example_A\raw_image`
@@ -68,5 +68,5 @@ When you ran the example, MyoVision:
      + an image file `clean_overlay.png` showing falsely-colored fibers overlaid on the original input image
      + an image file `annotated_overlay.png` showing falsely-colored fibers overlaid on the original input image with text labels showing the fiber IDs
      + a zip file `processing.zip` which can be useful for trouble-shooting and which contains:
-       + a folder named `blocks` with images showing processing steps for individual [blocks](https://github.com/Campbell-Muscle-Lab/Python_MyoVision/wiki/Analyze-a-bigger-image)
+       + a folder named `blocks` with images showing processing steps for individual [blocks](analyze-a-bigger-image.html)
        + a folder named `classification_steps` with images showing the results of the processing steps outlined above
