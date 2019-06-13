@@ -19,7 +19,7 @@ The easiest way to install Python and all of the necessary packages is to use th
   + opening a command prompt (Run->cmd, or type cmd in the Windows Search box)
   + typing "python -V" and pressing enter
   + you should see something like this
-![python_version_check.png](https://github.com/Campbell-Muscle-Lab/Python_MyoVision/blob/master/wiki_resources/anaconda_installation/python_version_check.png)
+![python_version_check.png](python_version_check.png)
   + if you get an error, or don't see a version number starting with 3.something try [this troubleshooting page](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/)
 
 

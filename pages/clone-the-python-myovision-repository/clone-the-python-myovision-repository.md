@@ -16,4 +16,4 @@ The GitHub Desktop client allows you to "clone" the repository to your own compu
 https://github.com/Campbell-Muscle-Lab/Python_MyoVision) to your local directory.
 + Now open your local directory.
   + You should see a folder structure that looks like this.
-![directory_structure.png](https://github.com/Campbell-Muscle-Lab/Python_MyoVision/blob/master/wiki_resources/cloning_a_repository/directory_structure.png)
+![directory_structure.png](directory_structure.png)

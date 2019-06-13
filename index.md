@@ -8,24 +8,14 @@ These pages provide information about an implementation of the MyoVision softwar
 
 The basic approach is very similar to that described by [Wen et al. (2018)](https://www.physiology.org/doi/full/10.1152/japplphysiol.00762.2017) but the software has been re-written in an attempt to make it more robust and potentially faster.
 
-first test
-![kens_test_image](assets/analyze-a-small-image/clean_overlay.png)
-
-second test - assets/clean_overlay.png
-![kens_test_image](assets/clean_overlay.png)
-third test - ../assets/clean_overlay.png
-![kens_test_image](../assets/clean_overlay.png)
-fourth test - assets/themes/twitter/clean_overlay.png
-![kens_test_image](assets/themes/twitter/clean_overlay.png)
-
 + Overview
 + Getting started
   + How to install MyoVision on your computer
-    + [Install Python using Anaconda](pages/install-python-using-anaconda.html)
-    + [Install the GitHub client](pages/install-the-github-client.html)
-    + [Clone the Python MyoVision repository](pages/clone-the-python-myovision-repository)
+    + [Install Python using Anaconda](pages/install-python-using-anaconda/install-python-using-anaconda.html)
+    + [Install the GitHub client](pages/install-the-github-client/install-the-github-client.html)
+    + [Clone the Python MyoVision repository](pages/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
-  + [What MyoVision did](What-MyoVision-did)
+  + [What MyoVision did](what-myovision-did/What-MyoVision-did)
 + Next steps
   + [Analyze a bigger image](Analyze-a-bigger-image)
   + [Creating a new classifier](Creating-a-new-classifier)
