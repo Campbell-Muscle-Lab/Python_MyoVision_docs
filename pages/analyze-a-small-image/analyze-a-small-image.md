@@ -10,7 +10,7 @@ These instructions show you how to run a simple demo which analyzes a small test
 
 ### Video
 
-[![Video tutorial hosted on YouTube](video_screenshot.png)](https://youtu.be/D3lXJ7LVSHU)
+[![Video tutorial hosted on UKy GoogleDrive](video_screenshot.png)](https://drive.google.com/a/g.uky.edu/file/d/1O8lf0orA2FP_IiMHnhaWM6Rc2TfCbjtL/view?usp=sharing)
 
 ### Instructions
 
