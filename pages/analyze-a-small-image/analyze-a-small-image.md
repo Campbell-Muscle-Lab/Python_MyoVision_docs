@@ -8,6 +8,10 @@ description: Web-based help for Python_MyoVision
 
 These instructions show you how to run a simple demo which analyzes a small test image.
 
+### Video
+
+[![Video tutorial hosted on YouTube](video_screenshot.png)](https://youtu.be/D3lXJ7LVSHU)
+
 ### Instructions
 
 1. Open a command prompt
