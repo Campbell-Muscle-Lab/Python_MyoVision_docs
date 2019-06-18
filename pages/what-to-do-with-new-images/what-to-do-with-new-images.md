@@ -14,37 +14,43 @@ In practice, that's unlikely to work. Even if it does, there's a high probabilit
 
 ### A better approach
 
-Start small, and take baby steps
+Start small, and take baby steps.
+
+The key point is to test every step of your workflow with small images. These are easier to troubleshoot and take less to time to process. Only transition to large data files once you are confident that your test examples are working smoothly and robustly.
+
+First
 
 + Make sure you've worked through the introductory tutorials
 
 Once you've done that
 
-+ Take one of your new images
++ Take one of your new images, let's assume it's called real_data_1.png
 
-+ Crop it, so that it contains tens of fibers - and save it with a simple name, such as test_1.png
++ Crop data_1.png, so that it contains tens of fibers - and save it with a simple name, such as test_1.png
 
-+ Now try to segment your simple image into blobs
++ Now try to segment test_1.png into blobs
+
   + Use [this example](../creating-a-new-classifier/segment-a-test-image-into-blobs/segment-a-test-image-into-blobs.html) if you need help
   
-  + If your initial segmentation looks okay
-    + [Make a new classifier](../creating-a-new-classifier/creating-a-new-classifier.html)
-    + then use that classifer to analyze the image, as in [this example](../analyze-a-small-image/analyze-a-small-image.html)
-  
-  + If your initial segmentation looks dodgy, try:
-    + adjusting the `saturation_percent` parameter in your configuration file
-    + once that looks better, try the classification steps outlined above
+  + If you didn't get adquate blobs
+    + try adjusting the `saturation_percent` parameter in your configuration file and repeat the initial segmentation
     
-  + If the segmentation found fibers, but you're not happy with the refinement step
-    + try adjusting `sigma` in `<refine_fibers_parameters>`
-      + low sigma (e.g. 1) will allow the fiber outlines to grow close to the cell boundaries
-      + higher sigmas (e.g. 5) will keep the fiber outlines further from the boundaries, but may produce fewer 'connected fibers'
+  + Once you can identify blobs in test_1.png, repeat the process with:
+    + test_2.png, a bigger cropped version of real_data_1.png that contains hundreds of fibers
+    
+  + If that still looks okay, try to segment real_data_1.png into blobs
+    + again, adjust `saturation_percent` if you're not happy with any of these steps
+    
++ Once you've segmented real_data_1.png adequately
+  + use it to [make a new classifier](../creating-a-new-classifier/creating-a-new-classifier.html)
   
-  + don't move on, until you are happy with the analsis of the small image
++ Then, as illustrated in [analyze-a-larger-image](../analyze-a-larger-image/analyze-a-larger_image.html), user your new classifier to analyze:
+  + test_1.png
+  + test_2.png
+  + real_data_1.png in sequence
   
-+ Now repeat the process with a bigger version of your test image (perhaps one containing a few hundred fibers)
-  + Don't move on, until you are confident that works
-  
-+ Now try it with a full-scale image
++ If you're not happy with the fiber refinement step in these analyses, try adjusting `sigma` in `<refine_fibers_parameters>`
+  + low sigma (e.g. 1) will allow the fiber outlines to grow close to the cell boundaries
+  + higher sigmas (e.g. 5) will keep the fiber outlines further from the boundaries, but may produce fewer 'connected fibers'
 
 + If that works, set up the [batch process](../process-many-images-in-sequence/process-many-images-in-sequence.html) and cross your fingers!
