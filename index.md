@@ -22,7 +22,7 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Segment a test image into test blobs](pages/creating-a-new-classifier/segment-a-test-image-into-test-blobs/segment-a-test-image-into-test-blobs.html)
     + [Manually-classify-blobs](pages/creating-a-new-classifier/manually-classify-blobs/manually-classify-blobs.html)
     + [Train the classifier](pages/creating-a-new-classifier/train-the-classifier/train-the-classifier.html)
-    + [Test your new classifer](pages/creating-a-new-classifer/test-your-new-classifier/test-your-new-classifier.html)
+    + [Test your new classifer](pages/creating-a-new-classifier/test-your-new-classifier/test-your-new-classifier.html)
   + [Process many images in sequence](pages/process-many-images-in-sequence/process-many-images-in-sequence.html)  
   
 + **Running your own analyses**
