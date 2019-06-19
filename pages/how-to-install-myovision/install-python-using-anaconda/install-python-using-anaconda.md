@@ -25,7 +25,7 @@ The easiest way to install Python and all of the necessary packages is to use th
 ![python_version_check.png](python_version_check.png)
   + if you get an error, or don't see a version number starting with 3.something try [this troubleshooting page](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/)  
 
-+ Finally, update the complete Anaconda installation by:
++ Finally, recognizing that this may take ~20 minutes, update the complete Anaconda installation by:
   + typing "conda update -all" at the command line and pressing enter
   + accept Y / default arguments when prompted
   + Get [help here](https://www.anaconda.com/keeping-anaconda-date/) if you need it
