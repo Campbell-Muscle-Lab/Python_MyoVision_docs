@@ -30,7 +30,7 @@ Here's a flipped version that we will use to to test our system.
 1. Open a command window and change to the directory containing your Python code - see [Analyzing a small image](../../analyze-a-small-image/analyze-a-small-image.html) if you need help.
 
 1. Now type  
-`python py_vision.py analyze_images "..\demos\example_C\configuration_data\flipped_image.xml"`  
+`python py_vision.py analyze_images "..\demos\example_C\configuration_data\flipped_configuration_data.xml"`  
 and press enter
 
 1. The code should run, and in the results folder, you should find the following annotated image.  
