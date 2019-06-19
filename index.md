@@ -30,7 +30,9 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   + [What to do with new images](pages/what-to-do-with-new-images/what-to-do-with-new-images.html)  
   
   
-+ **Background you should know**
++ **Background and useful tips**
+  + [Folders and relative paths](pages/background-and-useful-tips/folders-and-relative-paths.md)
+  + [How to organize your data](pages/background-and-useful-tips/how-to-organize-your-data.md)
   + How computers store images
   + Classification  
   

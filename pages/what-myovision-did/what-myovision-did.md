@@ -4,22 +4,6 @@ title: What MyoVision did
 description: Web-based help for Python_MyoVision
 ---
 
-**A quick note about folders and relative paths**
-
-This documentation doesn't know which directory you installed Python_MyoVision in.
-
-That's because, if you followed [the instructions](../clone-the-python-myovision-repository/clone-the-python-myovision-repository.html), you cloned the code to  
-`c:\users\your_user_name\github\Python_MyoVision`  
-where _your_user_name_ is something specific to you.
-
-The demos resolve this issue by using relative paths.  
-+ `..\` means go up a directory
-+ `..\..\` means go up 2 directories
-+ `..\demos` means go up a directory, and then into the `demos` directory
-+ `..\demos\example_A` means go up a directory, and then into the `example_A` subdirectory of `demos`
-+ and so on
-
-
 ### Algorithm worflow
 
 When you ran the example, MyoVision:

@@ -23,7 +23,7 @@ Here's the original image we used to train the classifer.
 Here's a flipped version that we will use to to test our system.  
 ![flipped_raw_image.png](flipped_raw_image.png)
 
-1. Now have a look at `flipped_image.xml` in `..\demos\example_C\configuration_data\flipped_image.xml`
+1. Now have a look at `flipped_image.xml` in `..\demos\example_C\configuration_data\flipped_configuration_data.xml`
 
 1. By now, you can probably see that it is going to run a standard analysis, just like [Analyze a larger image](../../analyze-a-larger-image/analyze-a-larger-image.html) on the flipped image.
 
