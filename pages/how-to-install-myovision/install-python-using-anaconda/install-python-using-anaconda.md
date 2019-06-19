@@ -12,11 +12,13 @@ The easiest way to install Python and all of the necessary packages is to use th
 
 + Read the [Installation instructions](https://docs.anaconda.com/anaconda/install/windows/) for Anaconda.  
 
+
 + Note that during the installation
   + if you are given the option of installing Python 3.something or Python 2.something, install the newer Python 3.x something version.
   + you will have the option of adding Anaconda to your PATH environment variable. Although it is not the default, we want to do this for MyoVision.  
 
 + Now go ahead, and install Anaconda, following the instructions, and adding Anaconda to your PATH environment variable when you get to the appropriate step.  
+
 
 + Check the installation by:
   + opening a command prompt (Run->cmd, or type cmd in the Windows Search box)
@@ -24,6 +26,7 @@ The easiest way to install Python and all of the necessary packages is to use th
   + you should see something like this  
 ![python_version_check.png](python_version_check.png)
   + if you get an error, or don't see a version number starting with 3.something try [this troubleshooting page](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/)  
+
 
 + Finally, recognizing that this may take ~20 minutes, update the complete Anaconda installation by:
   + typing "conda update -all" at the command line and pressing enter
