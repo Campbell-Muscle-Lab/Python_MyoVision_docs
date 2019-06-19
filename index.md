@@ -15,7 +15,6 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Clone the Python MyoVision repository](pages/how-to-install-myovision/clone-the-python-myovision-repository/clone-the-python-myovision-repository)
   + [Analyze a small image](pages/analyze-a-small-image/analyze-a-small-image.html)
   + [What MyoVision did](pages/what-myovision-did/what-myovision-did.html)  
-    
   
 + **Next steps**
   + [Analyze a bigger image](pages/analyze-a-bigger-image/analyze-a-bigger-image.html)
@@ -25,10 +24,9 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
     + [Train the classifier](pages/creating-a-new-classifier/train-the-classifier/train-the-classifier.html)
     + [Test your new classifer](pages/creating-a-new-classifer/test-your-new-classifier/test-your-new-classifier.html)
   + [Process many images in sequence](pages/process-many-images-in-sequence/process-many-images-in-sequence.html)  
-    
+  
 + **Running your own analyses**
   + [What to do with new images](pages/what-to-do-with-new-images/what-to-do-with-new-images.html)  
-  
   
 + **Background and useful tips**
   + [Folders and relative paths](pages/background-and-useful-tips/folders-and-relative-paths.md)
@@ -36,8 +34,10 @@ The basic approach is very similar to that described by [Wen et al. (2018)](http
   + How computers store images
   + Classification  
   
-  
 + **Getting help**
   + [Things you should check first](pages/help_and_resources/things-you-should-check-first/things-you-should-check-first.html)
   + [How to create an issue](pages/help_and_resources/how-to-create-an-issue/how-to-create-an-issue.html)
   + How to request a new feature  
+  
++ **Source code**
+  + [Email MyoVision](mailto:CMB-UK@uky.edu) and ask for access to the [GitHub repository](https://github.com/Campbell-Muscle-Lab/Python_MyoVision/)
