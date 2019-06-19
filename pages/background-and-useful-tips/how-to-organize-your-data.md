@@ -22,7 +22,7 @@ If you are using Python_MyoVision, you probably have a lot of files, and some of
     `<raw_image_file_string>..\demos\example_A\raw_image\image_1.png</raw_image_file_string>`  
     with  
     `<raw_image_file_string>c:\users\your_username_here\Documents\Project_1\raw_images\image_1.png</raw_image_file_string>`  
-    
+  
   + and your results in  
   `c:\users\your_username_here\Documents\Projects_1\results`  
   using configuration inputs like  
