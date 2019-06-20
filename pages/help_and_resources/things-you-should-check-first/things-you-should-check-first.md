@@ -37,7 +37,7 @@ If the demos work, but you are running into other problems
   + If you are trying to [analyze a very big image](../../analyze-a-bigger-image/analyze-a-bigger-image.html)
     + crop the image so that you just have 30 or 40 fibers
     + make sure you can analyze the small image first
-  + Remember that Python_MyoVision [dumps image files as it goes](../what-myovision-did/what-myovision-did.html)
+  + Remember that Python_MyoVision [dumps image files as it goes](../../what-myovision-did/what-myovision-did.html)
     + use these to track the source of your problem
     + for example, if you can't see robust edges in the Frangi filter image, the program won't be able to perform a robust initial segmentation.
       + in this case, reading the documentation, will help you to see that changing the `percent_saturation` parameter in your configuration file might help.
